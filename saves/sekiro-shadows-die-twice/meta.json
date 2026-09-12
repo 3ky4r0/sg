@@ -1,0 +1,18 @@
+{
+  "gameId": "sekiro-shadows-die-twice",
+  "gameName": "Sekiro: Shadows Die Twice",
+  "fileCount": 1,
+  "size": 1938,
+  "updatedAt": "2026-09-12T15:38:32.959Z",
+  "mappings": [
+    {
+      "archivePath": "files/0_GraphicsConfig.xml",
+      "placeholderPath": "<appdata>/Sekiro/GraphicsConfig.xml",
+      "size": 1938,
+      "mtime": 1789224477784.0046,
+      "fileHash": "65d3f93b90466e4f8048b7aed59948b7152ae6ffe570a946dcf219c7970eef5d"
+    }
+  ],
+  "sha256": "4afa782c3662aec9789b99d195584f482df5452769e24e4ce5b61324badeed8e",
+  "zipSize": 1014
+}
