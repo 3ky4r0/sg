@@ -1,18 +1,39 @@
 {
   "gameId": "sekiro-shadows-die-twice",
   "gameName": "Sekiro: Shadows Die Twice",
-  "fileCount": 1,
-  "size": 1938,
-  "updatedAt": "2026-09-12T15:38:32.959Z",
+  "fileCount": 4,
+  "size": 35787522,
+  "updatedAt": "2026-09-12T15:49:58.950Z",
   "mappings": [
     {
-      "archivePath": "files/0_GraphicsConfig.xml",
+      "archivePath": "files/0_S0000.sl2",
+      "placeholderPath": "<appdata>/Sekiro/76561197960267366/S0000.sl2",
+      "size": 11928528,
+      "mtime": 1785419746959.9429,
+      "fileHash": "7ee812f45161f8af54b7af00fd0b75f6e3ef2e0c0fb6afae611c0c2d1789f4a9"
+    },
+    {
+      "archivePath": "files/1_S0000.sl2",
+      "placeholderPath": "<appdata>/Sekiro/76561198702972679/S0000.sl2",
+      "size": 11928528,
+      "mtime": 1729425286000,
+      "fileHash": "18bb39c0e1c1159ed36d2ebde3bddd390d747ae7b68cb27c699d44a271e82638"
+    },
+    {
+      "archivePath": "files/2_S0000.sl2",
+      "placeholderPath": "<appdata>/Sekiro/76561199150770555/S0000.sl2",
+      "size": 11928528,
+      "mtime": 1789224477784.981,
+      "fileHash": "aabc55278dde08766c3e603ef9cd3c02fe7057f99e07d86ab4e7a8566ce737ae"
+    },
+    {
+      "archivePath": "files/3_GraphicsConfig.xml",
       "placeholderPath": "<appdata>/Sekiro/GraphicsConfig.xml",
       "size": 1938,
-      "mtime": 1789224477784.0046,
+      "mtime": 1789199276000,
       "fileHash": "65d3f93b90466e4f8048b7aed59948b7152ae6ffe570a946dcf219c7970eef5d"
     }
   ],
-  "sha256": "4afa782c3662aec9789b99d195584f482df5452769e24e4ce5b61324badeed8e",
-  "zipSize": 1014
+  "sha256": "79863024ce0f5e108f81d476998ee671e5f0e460af931d5d37aa59dffe5f6fe0",
+  "zipSize": 330493
 }
