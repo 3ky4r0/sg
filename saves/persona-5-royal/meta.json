@@ -1,0 +1,39 @@
+{
+  "gameId": "persona-5-royal",
+  "gameName": "Persona 5 Royal",
+  "fileCount": 3,
+  "size": 5541,
+  "lastModified": "2026-07-18T08:54:28.729Z",
+  "updatedAt": "2026-09-13T07:15:24.174Z",
+  "mappings": [
+    {
+      "archivePath": "drive-C/Users/xnxx/AppData/Roaming/SEGA/P5R/Steam/76561199150770555/savedata/DATA01/DATA.DAT",
+      "placeholderPath": "<appdata>/SEGA/P5R/Steam/76561199150770555/savedata/DATA01/DATA.DAT",
+      "targetPath": "C:\\Users\\xnxx\\AppData\\Roaming\\SEGA\\P5R\\Steam\\76561199150770555\\savedata\\DATA01\\DATA.DAT",
+      "size": 4912,
+      "mtime": 1777994692000,
+      "fileHash": "a5713d753e4f93fefcf9ef120a9904d9bdf8124d"
+    },
+    {
+      "archivePath": "drive-C/Users/xnxx/AppData/Roaming/SEGA/P5R/Steam/76561199150770555/savedata/steam_autocloud.vdf",
+      "placeholderPath": "<appdata>/SEGA/P5R/Steam/76561199150770555/savedata/steam_autocloud.vdf",
+      "targetPath": "C:\\Users\\xnxx\\AppData\\Roaming\\SEGA\\P5R\\Steam\\76561199150770555\\savedata\\steam_autocloud.vdf",
+      "size": 53,
+      "mtime": 1784364868729.2473,
+      "fileHash": "aad807284f230c6b32eae6964abe2ca22ba4bc23"
+    },
+    {
+      "archivePath": "drive-C/Users/xnxx/AppData/Roaming/SEGA/P5R/Steam/76561199150770555/savedata/SYSTEM/SYSTEM.DAT",
+      "placeholderPath": "<appdata>/SEGA/P5R/Steam/76561199150770555/savedata/SYSTEM/SYSTEM.DAT",
+      "targetPath": "C:\\Users\\xnxx\\AppData\\Roaming\\SEGA\\P5R\\Steam\\76561199150770555\\savedata\\SYSTEM\\SYSTEM.DAT",
+      "size": 576,
+      "mtime": 1777994692000,
+      "fileHash": "e0ae112ffc19ed641612b6757930ad61be81aad2"
+    }
+  ],
+  "drives": {
+    "drive-C": "C:"
+  },
+  "sha256": "151e95a9ee5701e7d5fede3ce759f807d97d7c45b4f2aa6f8ef927164343073b",
+  "zipSize": 7520
+}
