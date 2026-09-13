@@ -1,0 +1,23 @@
+{
+  "gameId": "how-to-fish",
+  "gameName": "How to Fish",
+  "fileCount": 1,
+  "size": 2920,
+  "lastModified": "2026-08-26T17:36:25.542Z",
+  "updatedAt": "2026-09-13T06:14:59.032Z",
+  "mappings": [
+    {
+      "archivePath": "drive-C/Users/xnxx/AppData/LocalLow/Dazed Games/How to Fish/Saves/local.txt",
+      "placeholderPath": "<localappdataLow>/Dazed Games/How to Fish/Saves/local.txt",
+      "targetPath": "C:\\Users\\xnxx\\AppData\\LocalLow\\Dazed Games\\How to Fish\\Saves\\local.txt",
+      "size": 2920,
+      "mtime": 1787765785542.6367,
+      "fileHash": "63ae76ae72a67b18498dcb9d2a8e5f7b7e3c1ee2"
+    }
+  ],
+  "drives": {
+    "drive-C": "C:"
+  },
+  "sha256": "6838a8cb274ea0dd2ca5184c73e67927b35875eb3af56894d5da32f7b1fde3c6",
+  "zipSize": 1535
+}
