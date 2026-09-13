@@ -1,0 +1,71 @@
+{
+  "gameId": "brawlhalla",
+  "gameName": "Brawlhalla",
+  "fileCount": 7,
+  "size": 38750,
+  "lastModified": "2026-09-02T13:13:24.227Z",
+  "updatedAt": "2026-09-13T11:03:34.561Z",
+  "mappings": [
+    {
+      "archivePath": "drive-C/Users/xnxx/BrawlhallaReplays/[10.10] CrystalTemple.replay",
+      "placeholderPath": "<home>/BrawlhallaReplays/[10.10] CrystalTemple.replay",
+      "targetPath": "C:\\Users\\xnxx\\BrawlhallaReplays\\[10.10] CrystalTemple.replay",
+      "size": 9041,
+      "mtime": 1788354760931.3298,
+      "fileHash": "4f9c7ed2966931171c6dd8a8a6aaabfc63668d06"
+    },
+    {
+      "archivePath": "drive-C/Users/xnxx/BrawlhallaReplays/[10.10] SmallEnigma.replay",
+      "placeholderPath": "<home>/BrawlhallaReplays/[10.10] SmallEnigma.replay",
+      "targetPath": "C:\\Users\\xnxx\\BrawlhallaReplays\\[10.10] SmallEnigma.replay",
+      "size": 6860,
+      "mtime": 1787928108077.0735,
+      "fileHash": "abdf7dfe81b072bcb62f5d565d08c8f731bbaba8"
+    },
+    {
+      "archivePath": "drive-C/Users/xnxx/BrawlhallaReplays/[10.10] SmallFortressof.replay",
+      "placeholderPath": "<home>/BrawlhallaReplays/[10.10] SmallFortressof.replay",
+      "targetPath": "C:\\Users\\xnxx\\BrawlhallaReplays\\[10.10] SmallFortressof.replay",
+      "size": 20480,
+      "mtime": 1787927947060.9878,
+      "fileHash": "490828df7158f607509e7c952f11f22a06b4ce92"
+    },
+    {
+      "archivePath": "drive-C/Users/xnxx/AppData/Roaming/BrawlhallaAir/Local Store/#SharedObjects/bhProfileData.sol",
+      "placeholderPath": "<appdata>/BrawlhallaAir/Local Store/#SharedObjects/bhProfileData.sol",
+      "targetPath": "C:\\Users\\xnxx\\AppData\\Roaming\\BrawlhallaAir\\Local Store\\#SharedObjects\\bhProfileData.sol",
+      "size": 318,
+      "mtime": 1787927687471.4688,
+      "fileHash": "f7ad2e864399062ba8f981a98e5e7e5e8f360a00"
+    },
+    {
+      "archivePath": "drive-C/Users/xnxx/AppData/Roaming/BrawlhallaAir/Local Store/#SharedObjects/sbSavedData.sol",
+      "placeholderPath": "<appdata>/BrawlhallaAir/Local Store/#SharedObjects/sbSavedData.sol",
+      "targetPath": "C:\\Users\\xnxx\\AppData\\Roaming\\BrawlhallaAir\\Local Store\\#SharedObjects\\sbSavedData.sol",
+      "size": 98,
+      "mtime": 1787927633678.5742,
+      "fileHash": "f09841779cfa571faec707123f6810b8935e497f"
+    },
+    {
+      "archivePath": "drive-C/Users/xnxx/AppData/Roaming/BrawlhallaAir/Local Store/#SharedObjects/sbSavedGameData.sol",
+      "placeholderPath": "<appdata>/BrawlhallaAir/Local Store/#SharedObjects/sbSavedGameData.sol",
+      "targetPath": "C:\\Users\\xnxx\\AppData\\Roaming\\BrawlhallaAir\\Local Store\\#SharedObjects\\sbSavedGameData.sol",
+      "size": 1007,
+      "mtime": 1788354804227.0662,
+      "fileHash": "6d68d3508d615c36ca16573d885149cf46169b8a"
+    },
+    {
+      "archivePath": "drive-C/Users/xnxx/AppData/Roaming/BrawlhallaAir/Local Store/data.dat",
+      "placeholderPath": "<appdata>/BrawlhallaAir/Local Store/data.dat",
+      "targetPath": "C:\\Users\\xnxx\\AppData\\Roaming\\BrawlhallaAir\\Local Store\\data.dat",
+      "size": 946,
+      "mtime": 1788354765605.4543,
+      "fileHash": "8adf4c244a0e81e3a21922b0841bf3cd3efdd5e8"
+    }
+  ],
+  "drives": {
+    "drive-C": "C:"
+  },
+  "sha256": "fd48b13683cdba9f1a69cabbdf383687285341f91d0cec4097336240d70b59d8",
+  "zipSize": 41555
+}
