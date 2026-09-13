@@ -3,21 +3,21 @@
   "gameName": "Sekiro: Shadows Die Twice",
   "fileCount": 1,
   "size": 11928528,
-  "lastModified": "2026-09-12T16:40:59.940Z",
-  "updatedAt": "2026-09-13T04:31:19.192Z",
+  "lastModified": "2026-09-13T07:57:37.173Z",
+  "updatedAt": "2026-09-13T07:58:35.809Z",
   "mappings": [
     {
       "archivePath": "drive-C/Users/xnxx/AppData/Roaming/Sekiro/76561199150770555/S0000.sl2",
       "placeholderPath": "<appdata>/Sekiro/76561199150770555/S0000.sl2",
       "targetPath": "C:\\Users\\xnxx\\AppData\\Roaming\\Sekiro\\76561199150770555\\S0000.sl2",
       "size": 11928528,
-      "mtime": 1789231259940.7266,
-      "fileHash": "ceed483230d9c3b3bbe63ace018b9d1eb898220e"
+      "mtime": 1789286257173.0215,
+      "fileHash": "82b897df13caf83ca98d4a9a25e6079406a2517a"
     }
   ],
   "drives": {
     "drive-C": "C:"
   },
-  "sha256": "f2c4c061d024b98e59a1778d1266f45d149ada372fc5741d74723c913df8b6dd",
-  "zipSize": 19853
+  "sha256": "b1305b67fa0833fd451d11ee98e80ea837b1a3951c7f3515773b0078a39db01b",
+  "zipSize": 153974
 }
