@@ -1,0 +1,111 @@
+{
+  "gameId": "counter-strike-2",
+  "gameName": "Counter-Strike 2",
+  "fileCount": 12,
+  "size": 12937,
+  "lastModified": "2026-09-12T07:06:11.984Z",
+  "updatedAt": "2026-09-13T12:27:53.100Z",
+  "mappings": [
+    {
+      "archivePath": "drive-C/Program Files (x86)/Steam/userdata/1190504827/730/remote/cfg/cs2_loadout_favorites.txt",
+      "placeholderPath": "<root>/userdata/<storeUserId>/730/remote/cfg/cs2_loadout_favorites.txt",
+      "targetPath": "C:\\Program Files (x86)\\Steam\\userdata\\1190504827\\730\\remote\\cfg\\cs2_loadout_favorites.txt",
+      "size": 157,
+      "mtime": 1784297359949.563,
+      "fileHash": "5ae66d59ab7f56a8f56b73da7626f160e165f861"
+    },
+    {
+      "archivePath": "drive-C/Program Files (x86)/Steam/userdata/1190504827/730/remote/cfg/cs2_preferred_items.txt",
+      "placeholderPath": "<root>/userdata/<storeUserId>/730/remote/cfg/cs2_preferred_items.txt",
+      "targetPath": "C:\\Program Files (x86)\\Steam\\userdata\\1190504827\\730\\remote\\cfg\\cs2_preferred_items.txt",
+      "size": 1527,
+      "mtime": 1789196771984.5906,
+      "fileHash": "2b5a3d8234f84df0d0d5672b6f240c5fc9018d61"
+    },
+    {
+      "archivePath": "drive-C/Program Files (x86)/Steam/userdata/1190504827/730/remote/cfg/cs2_shuffle_slots.txt",
+      "placeholderPath": "<root>/userdata/<storeUserId>/730/remote/cfg/cs2_shuffle_slots.txt",
+      "targetPath": "C:\\Program Files (x86)\\Steam\\userdata\\1190504827\\730\\remote\\cfg\\cs2_shuffle_slots.txt",
+      "size": 19,
+      "mtime": 1696018345000,
+      "fileHash": "71e750a41c42d68d603843e4fcc5fb6c31bd8f68"
+    },
+    {
+      "archivePath": "drive-C/Program Files (x86)/Steam/userdata/1190504827/730/remote/cfg/csgo_saved_item_shuffles.txt",
+      "placeholderPath": "<root>/userdata/<storeUserId>/730/remote/cfg/csgo_saved_item_shuffles.txt",
+      "targetPath": "C:\\Program Files (x86)\\Steam\\userdata\\1190504827\\730\\remote\\cfg\\csgo_saved_item_shuffles.txt",
+      "size": 24,
+      "mtime": 1626880440000,
+      "fileHash": "c7bdc563982fc4ddddb9e6f8853b298967d858f9"
+    },
+    {
+      "archivePath": "drive-C/Program Files (x86)/Steam/userdata/1190504827/730/remote/cfg/workshop_saves/save_3086023598.txt",
+      "placeholderPath": "<root>/userdata/<storeUserId>/730/remote/cfg/workshop_saves/save_3086023598.txt",
+      "targetPath": "C:\\Program Files (x86)\\Steam\\userdata\\1190504827\\730\\remote\\cfg\\workshop_saves\\save_3086023598.txt",
+      "size": 1234,
+      "mtime": 1786889204022.142,
+      "fileHash": "2d6496bcdb944f503e83e4ad9890e1837df19842"
+    },
+    {
+      "archivePath": "drive-C/Program Files (x86)/Steam/userdata/1190504827/730/remote/cfg/workshop_saves/save_3355497176.txt",
+      "placeholderPath": "<root>/userdata/<storeUserId>/730/remote/cfg/workshop_saves/save_3355497176.txt",
+      "targetPath": "C:\\Program Files (x86)\\Steam\\userdata\\1190504827\\730\\remote\\cfg\\workshop_saves\\save_3355497176.txt",
+      "size": 268,
+      "mtime": 1783800516728.48,
+      "fileHash": "556defecc15991ee3c6378ca921fa0929a8166db"
+    },
+    {
+      "archivePath": "drive-C/Program Files (x86)/Steam/userdata/1190504827/730/remote/cs2_user_convars.vcfg",
+      "placeholderPath": "<root>/userdata/<storeUserId>/730/remote/cs2_user_convars.vcfg",
+      "targetPath": "C:\\Program Files (x86)\\Steam\\userdata\\1190504827\\730\\remote\\cs2_user_convars.vcfg",
+      "size": 3106,
+      "mtime": 1789196771609.7915,
+      "fileHash": "79ba73bfcc676935c60ed7d6f0a6f05940d4e9f7"
+    },
+    {
+      "archivePath": "drive-C/Program Files (x86)/Steam/userdata/1190504827/730/remote/cs2_user_keys.vcfg",
+      "placeholderPath": "<root>/userdata/<storeUserId>/730/remote/cs2_user_keys.vcfg",
+      "targetPath": "C:\\Program Files (x86)\\Steam\\userdata\\1190504827\\730\\remote\\cs2_user_keys.vcfg",
+      "size": 294,
+      "mtime": 1789196771631.647,
+      "fileHash": "0823ea790b04967c49c23a1cdc556f8c4ca37876"
+    },
+    {
+      "archivePath": "drive-C/Program Files (x86)/Steam/userdata/1190504827/730/remote/socache.dt",
+      "placeholderPath": "<root>/userdata/<storeUserId>/730/remote/socache.dt",
+      "targetPath": "C:\\Program Files (x86)\\Steam\\userdata\\1190504827\\730\\remote\\socache.dt",
+      "size": 56,
+      "mtime": 1789192807726.8833,
+      "fileHash": "a6037cfc200a0b18b41cb25f576680f9edf61ec5"
+    },
+    {
+      "archivePath": "drive-C/Program Files (x86)/Steam/userdata/1190504827/730/remote/voice_ban.dt",
+      "placeholderPath": "<root>/userdata/<storeUserId>/730/remote/voice_ban.dt",
+      "targetPath": "C:\\Program Files (x86)\\Steam\\userdata\\1190504827\\730\\remote\\voice_ban.dt",
+      "size": 1981,
+      "mtime": 1789144443483.8064,
+      "fileHash": "dd73c131109953f5fb7035b5da47761218e329c0"
+    },
+    {
+      "archivePath": "drive-C/Program Files (x86)/Steam/userdata/1190504827/730/remote/cfg/workshop_saves/save_3604696412.txt",
+      "placeholderPath": "<root>/userdata/<storeUserId>/730/remote/cfg/workshop_saves/save_3604696412.txt",
+      "targetPath": "C:\\Program Files (x86)\\Steam\\userdata\\1190504827\\730\\remote\\cfg\\workshop_saves\\save_3604696412.txt",
+      "size": 367,
+      "mtime": 1789174194916.5315,
+      "fileHash": "3c822c73d46877f62ec8c76cd57350e2a50f8176"
+    },
+    {
+      "archivePath": "drive-C/Program Files (x86)/Steam/userdata/1190504827/730/remote/cfg/workshop_saves/save_3251878584.txt",
+      "placeholderPath": "<root>/userdata/<storeUserId>/730/remote/cfg/workshop_saves/save_3251878584.txt",
+      "targetPath": "C:\\Program Files (x86)\\Steam\\userdata\\1190504827\\730\\remote\\cfg\\workshop_saves\\save_3251878584.txt",
+      "size": 3904,
+      "mtime": 1788758253330.6501,
+      "fileHash": "37f7ef48fee5b7d72987ba2f2cf72a2d64739fd2"
+    }
+  ],
+  "drives": {
+    "drive-C": "C:"
+  },
+  "sha256": "5315528d4193ba79c4d7462f62152a42736a00ff90c6595a3b4ba3e1988a34b1",
+  "zipSize": 8992
+}
