@@ -3,20 +3,21 @@
   "gameName": "Pico Park 2",
   "fileCount": 1,
   "size": 10784,
-  "updatedAt": "2026-09-12T16:50:27.664Z",
+  "lastModified": "2026-09-04T10:16:42.000Z",
+  "updatedAt": "2026-09-13T04:39:55.433Z",
   "mappings": [
     {
       "archivePath": "drive-C/Users/xnxx/AppData/LocalLow/TECOPARK/PICO PARK 2/Steam/76561199150770555/ko932711-ffcd-8823-b72d-b8119ca064b.sav",
       "placeholderPath": "<localappdataLow>/TECOPARK/PICO PARK 2/Steam/76561199150770555/ko932711-ffcd-8823-b72d-b8119ca064b.sav",
       "targetPath": "C:\\Users\\xnxx\\AppData\\LocalLow\\TECOPARK\\PICO PARK 2\\Steam\\76561199150770555\\ko932711-ffcd-8823-b72d-b8119ca064b.sav",
       "size": 10784,
-      "mtime": 1788542203118.5918,
+      "mtime": 1788517002000,
       "fileHash": "9e6bcb16e5fad89c2a6e00e59dc99d10cc614ca2"
     }
   ],
   "drives": {
     "drive-C": "C:"
   },
-  "sha256": "aabf2c8fa0688cffce1a069b3cabe325182982ddc43ed632a5872f3240008d96",
-  "zipSize": 12036
+  "sha256": "f6db132a48a563c7c29530545a977247a0ee6bdc5b3136d0e0a2ebf9f95e6f8b",
+  "zipSize": 12055
 }
