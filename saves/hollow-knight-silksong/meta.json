@@ -1,0 +1,87 @@
+{
+  "gameId": "hollow-knight-silksong",
+  "gameName": "Hollow Knight: Silksong",
+  "fileCount": 9,
+  "size": 272605,
+  "lastModified": "2026-09-13T04:13:21.598Z",
+  "updatedAt": "2026-09-13T04:14:13.997Z",
+  "mappings": [
+    {
+      "archivePath": "drive-C/Users/xnxx/AppData/LocalLow/Team Cherry/Hollow Knight Silksong/1190504827/Restore_Points1/NODELrestoreData1.dat",
+      "placeholderPath": "<localappdataLow>/Team Cherry/Hollow Knight Silksong/1190504827/Restore_Points1/NODELrestoreData1.dat",
+      "targetPath": "C:\\Users\\xnxx\\AppData\\LocalLow\\Team Cherry\\Hollow Knight Silksong\\1190504827\\Restore_Points1\\NODELrestoreData1.dat",
+      "size": 93658,
+      "mtime": 1789272000847.636,
+      "fileHash": "cc948b3588e877528b778a08180e57f46374c990"
+    },
+    {
+      "archivePath": "drive-C/Users/xnxx/AppData/LocalLow/Team Cherry/Hollow Knight Silksong/1190504827/shared.dat",
+      "placeholderPath": "<localappdataLow>/Team Cherry/Hollow Knight Silksong/1190504827/shared.dat",
+      "targetPath": "C:\\Users\\xnxx\\AppData\\LocalLow\\Team Cherry\\Hollow Knight Silksong\\1190504827\\shared.dat",
+      "size": 48,
+      "mtime": 1789272794359.984,
+      "fileHash": "e10e3cd888a6eb463a2b1cabccf6d87d8021711a"
+    },
+    {
+      "archivePath": "drive-C/Users/xnxx/AppData/LocalLow/Team Cherry/Hollow Knight Silksong/1190504827/shared.dat.bak",
+      "placeholderPath": "<localappdataLow>/Team Cherry/Hollow Knight Silksong/1190504827/shared.dat.bak",
+      "targetPath": "C:\\Users\\xnxx\\AppData\\LocalLow\\Team Cherry\\Hollow Knight Silksong\\1190504827\\shared.dat.bak",
+      "size": 48,
+      "mtime": 1789272677108.0796,
+      "fileHash": "e10e3cd888a6eb463a2b1cabccf6d87d8021711a"
+    },
+    {
+      "archivePath": "drive-C/Users/xnxx/AppData/LocalLow/Team Cherry/Hollow Knight Silksong/1190504827/steam_autocloud.vdf",
+      "placeholderPath": "<localappdataLow>/Team Cherry/Hollow Knight Silksong/1190504827/steam_autocloud.vdf",
+      "targetPath": "C:\\Users\\xnxx\\AppData\\LocalLow\\Team Cherry\\Hollow Knight Silksong\\1190504827\\steam_autocloud.vdf",
+      "size": 53,
+      "mtime": 1789271787310.3652,
+      "fileHash": "aad807284f230c6b32eae6964abe2ca22ba4bc23"
+    },
+    {
+      "archivePath": "drive-C/Users/xnxx/AppData/LocalLow/Team Cherry/Hollow Knight Silksong/1190504827/user1.dat",
+      "placeholderPath": "<localappdataLow>/Team Cherry/Hollow Knight Silksong/1190504827/user1.dat",
+      "targetPath": "C:\\Users\\xnxx\\AppData\\LocalLow\\Team Cherry\\Hollow Knight Silksong\\1190504827\\user1.dat",
+      "size": 56582,
+      "mtime": 1789272794368.047,
+      "fileHash": "f9b53b403fe3af422e91cfda8d523af42310f3d3"
+    },
+    {
+      "archivePath": "drive-C/Users/xnxx/AppData/LocalLow/Team Cherry/Hollow Knight Silksong/1190504827/user1.dat.bak1",
+      "placeholderPath": "<localappdataLow>/Team Cherry/Hollow Knight Silksong/1190504827/user1.dat.bak1",
+      "targetPath": "C:\\Users\\xnxx\\AppData\\LocalLow\\Team Cherry\\Hollow Knight Silksong\\1190504827\\user1.dat.bak1",
+      "size": 56582,
+      "mtime": 1789272677118.6294,
+      "fileHash": "fcca74643f781203f5194901ef70f26ef0401030"
+    },
+    {
+      "archivePath": "drive-C/Users/xnxx/AppData/LocalLow/Team Cherry/Hollow Knight Silksong/1190504827/user1_1.0.30000.dat",
+      "placeholderPath": "<localappdataLow>/Team Cherry/Hollow Knight Silksong/1190504827/user1_1.0.30000.dat",
+      "targetPath": "C:\\Users\\xnxx\\AppData\\LocalLow\\Team Cherry\\Hollow Knight Silksong\\1190504827\\user1_1.0.30000.dat",
+      "size": 56582,
+      "mtime": 1789272794378.6233,
+      "fileHash": "f9b53b403fe3af422e91cfda8d523af42310f3d3"
+    },
+    {
+      "archivePath": "drive-C/Users/xnxx/AppData/LocalLow/Team Cherry/Hollow Knight Silksong/AppConfig.ini",
+      "placeholderPath": "<localappdataLow>/Team Cherry/Hollow Knight Silksong/AppConfig.ini",
+      "targetPath": "C:\\Users\\xnxx\\AppData\\LocalLow\\Team Cherry\\Hollow Knight Silksong\\AppConfig.ini",
+      "size": 70,
+      "mtime": 1789271800349.0452,
+      "fileHash": "7e1d1da8688c8a842d36de6422e8a85035866605"
+    },
+    {
+      "archivePath": "drive-C/Users/xnxx/AppData/LocalLow/Team Cherry/Hollow Knight Silksong/Player.log",
+      "placeholderPath": "<localappdataLow>/Team Cherry/Hollow Knight Silksong/Player.log",
+      "targetPath": "C:\\Users\\xnxx\\AppData\\LocalLow\\Team Cherry\\Hollow Knight Silksong\\Player.log",
+      "size": 8982,
+      "mtime": 1789272801598.5283,
+      "fileHash": "42f479cd0d2e340e5fe8b879cc40186e546caad4"
+    }
+  ],
+  "drives": {
+    "drive-C": "C:"
+  },
+  "sha256": "294e8cc80af9e1648dc7b05e5e7d85f432542b23fe34d924885da3797bf103c9",
+  "zipSize": 202396
+}
